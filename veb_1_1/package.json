@@ -1,0 +1,13 @@
+{
+  "name": "veb_1_1",
+  "version": "0.0.0",
+  "description": "veb_1_1",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  },
+  "eslintConfig": {}
+}
